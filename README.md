@@ -32,12 +32,28 @@ Hospitality/
 │── src/
 │── package.json
 │── README.md
+```
 
+---
+
+
+## 🌐 Live Demo
+
+🔗 https://hospitality-jade.vercel.app/](https://hospitality-6lw3-e7xix4jo4-kaavish-02gs-projects.vercel.app/
+
+---
 
 ## 📈 Future Enhancements
 
 * Online Payment Integration
 * AI-based Patient Recommendations
 * Advanced Analytics Dashboard
-]
-Created by-Kaavish Gogia
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to fork this repository and submit a pull request.
+
+Created By-Kaavish Gogia
+
